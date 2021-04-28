@@ -1,2 +1,2 @@
 # gitPractice
-https://github.com/AdedejiAdetola/gitPractice/
+https://adedejiadetola.github.io/gitPractice/
